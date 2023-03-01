@@ -9,8 +9,8 @@ I’ll show you a very simple Kata that I normally use in my Test Driven Develop
 The character copier is a simple class that reads characters from a source and copies them to a destination one character at a time.
 
 The character copier gets the source and destination injected in the constructor.
-
-![](images/uml.JPG)
+ 
+![alt text](https://github.com/kimocks-netizen/DUT_AppFactory_Assessement/uml.JPG?raw=true)
 
 When the method Copy is called on the copier then it should read characters from the source and copy them to the destination until the source returns a newline (‘\n’).
 
